@@ -5,8 +5,8 @@
 
 ## General info
   I am Francisco Alamo.<br/>
-  Currently studying a BSc in Sociology with Data Science at Essex.
-  Group 28.
+  Currently studying a BSc in Sociology with Data Science at Essex.<br/>
+  Group 28.<br/>
   
 ## Technologies
 Project is created in R and using RStudio as Idle.
