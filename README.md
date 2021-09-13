@@ -1,7 +1,7 @@
 # Introduction2R
 ## Table of contents
-*[General info](#general-info)
-*[Languages](#technologies)
+* [General info](#general-info)
+* [Languages](#technologies)
 
 ## General info
   I am Francisco Alamo.
