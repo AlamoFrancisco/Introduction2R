@@ -4,7 +4,7 @@
 * [Languages](#technologies)
 
 ## General info
-  I am Francisco Alamo.
+  I am Francisco Alamo.<br/>
   Currently studying a BSc in Sociology with Data Science at Essex.
   Group 28.
   
